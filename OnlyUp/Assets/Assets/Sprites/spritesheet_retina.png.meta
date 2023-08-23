@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a905583ab85af0c44bd653e821db697b
+guid: ceaa5248202cdb9418879db6d8292169
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 1378, z: 644, w: 576}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -129,34 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spritesheet_jumper_0
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 1667
-        width: 379
-        height: 94
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c74767886bc0c31449a0e15a06856e16
-      internalID: 1667080078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_jumper_1
+      name: spritesheet_retina_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1283
-        width: 381
-        height: 94
+        y: 1417
+        width: 501
+        height: 289
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 884b7f56104dee24eaa5b13fb97ddaae
-      internalID: -1348469340
+      spriteID: c67037be149ef644a9ea4b22d50afde2
+      internalID: -977228806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_jumper_2
+      name: spritesheet_retina_1
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1186
-        width: 381
-        height: 94
+        x: 562
+        y: 1901
+        width: 404
+        height: 241
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,167 +164,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33139051847cb65499d837d48123f711
-      internalID: 1257942618
+      spriteID: 57e1345412890964f9b382bf7585847f
+      internalID: -7754348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet_jumper_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 995
-        width: 380
-        height: 93
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49b5b858264a2664e9f1a123d3167750
-      internalID: -1525036979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_jumper_4
-      rect:
-        serializedVersion: 2
-        x: 383
-        y: 1540
-        width: 199
-        height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 006f20e04d6fd974e9ed45921632c450
-      internalID: 1103594227
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_jumper_5
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 390
-        width: 202
-        height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51c8602a1a10c0a43928f49e4eadd693
-      internalID: 261887971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_jumper_6
-      rect:
-        serializedVersion: 2
-        x: 212
-        y: 286
-        width: 202
-        height: 99
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5afb069ce378d264889d48982920b5e0
-      internalID: 1676854925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_jumper_7
-      rect:
-        serializedVersion: 2
-        x: 213
-        y: 185
-        width: 200
-        height: 98
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 946c72351dd041f499765b19a7820fc8
-      internalID: -761079725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_jumper_8
-      rect:
-        serializedVersion: 2
-        x: 421
-        y: 413
-        width: 143
-        height: 75
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 182fae7c21b161747908f7a0d1bdea8e
-      internalID: -205556055
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_jumper_9
-      rect:
-        serializedVersion: 2
-        x: 784
-        y: 46
-        width: 83
-        height: 71
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b30a0da3ff53d74989cad02e3a6f87f
-      internalID: -175929273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spritesheet_jumper_10
+      name: spritesheet_retina_2
       rect:
         serializedVersion: 2
         x: 0
-        y: 1858
-        width: 380
-        height: 93
+        y: 135
+        width: 432
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639ced6128e11ea429dbd186b25ab4dd
+      internalID: -1644714451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_retina_3
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 37
+        width: 393
+        height: 312
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,8 +206,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 613cd6669b6b57d468a4930fe7853f3c
-      internalID: -381784921
+      spriteID: 729d2f0954d5c9c4f9f49b4b5bf2081c
+      internalID: -978654640
       vertices: []
       indices: 
       edges: []
@@ -363,24 +216,17 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      spritesheet_jumper_0: 1667080078
-      spritesheet_jumper_1: -1348469340
-      spritesheet_jumper_10: -381784921
-      spritesheet_jumper_2: 1257942618
-      spritesheet_jumper_3: -1525036979
-      spritesheet_jumper_4: 1103594227
-      spritesheet_jumper_5: 261887971
-      spritesheet_jumper_6: 1676854925
-      spritesheet_jumper_7: -761079725
-      spritesheet_jumper_8: -205556055
-      spritesheet_jumper_9: -175929273
+      spritesheet_retina_0: -977228806
+      spritesheet_retina_1: -7754348
+      spritesheet_retina_2: -1644714451
+      spritesheet_retina_3: -978654640
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
